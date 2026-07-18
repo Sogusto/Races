@@ -1,2 +1,0 @@
-# Races
-Races scripts
