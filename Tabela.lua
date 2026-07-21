@@ -11,7 +11,7 @@ module.AllRaces = {
 module.Races = {
 	-- Raças com acesso restrito (apenas devs)
 	["Anjo"] = {
-		PlayersPermission = {"putz_enzin3", "Nickname2"},
+		PlayersPermission = {"putz_enzin3", "Bwresty"},
 		Icon = 81599403581004,
 		RaceName = "anjo",
 		RaceTag = "anjo",
@@ -41,7 +41,7 @@ module.Races = {
 		RaceTag = "kaioshin",
 	},
 	["Mahoraga"] = {
-		PlayersPermission = {"Nickname3", "Nickname4"},
+		PlayersPermission = {"Bwresty", "Nickname4"},
 		Icon = 126275912972530,
 		RaceName = "mahoraga",
 		RaceTag = "mahoraga",
@@ -71,7 +71,7 @@ module.Races = {
 		RaceTag = "Instinto",
 	},
 	["Cosmic"] = {
-		PlayersPermission = {"Matheus_367890", "Nickname6"},
+		PlayersPermission = {"Matheus_367890", "Bwresty"},
 		Icon = 11229028251,
 		RaceName = "Cosmic",
 		RaceTag = "cosmic",
