@@ -5,6 +5,7 @@ module.AllRaces = {
 	11172075551,
 	724152595,
 	10104310812,
+	2579583119,
 }
 
 module.Races = {
@@ -28,7 +29,7 @@ module.Races = {
 		RaceTag = "majin",
 	},
 	["Hakaishin"] = {
-		PlayersPermission = {"AX7_RAFT", "sonecarlk333"},
+		PlayersPermission = {"AX7_RAFT","sonecarlk333"},
 		Icon = 75841837094533,
 		RaceName = "Hakaishin",
 		RaceTag = "hakai",
