@@ -77,7 +77,7 @@ module.Races = {
 		RaceTag = "cosmic",
 	},
 	["Xeno"] = {
-		PlayersPermission = {"", "Bwresty"},
+		PlayersPermission = {"AX7_RAFT", "Bwresty"},
 		Icon = 16708672567,
 		RaceName = "Xeno",
 		RaceTag = "Xeno",
