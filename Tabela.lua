@@ -46,12 +46,6 @@ module.Races = {
 		RaceName = "mahoraga",
 		RaceTag = "mahoraga",
 	},
-	["Shinobi"] = {
-		PlayersPermission = {"Nickname3", "Nickname4"},
-		Icon = 5796703740,
-		RaceName = "Shinobi",
-		RaceTag = "shinobi",
-	},
 	["Kilua"] = {
 		PlayersPermission = {"Nickname5", "Nickname6"},
 		Icon = 18367318475,
