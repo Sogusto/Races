@@ -76,6 +76,17 @@ module.Races = {
 		RaceName = "Xeno",
 		RaceTag = "Xeno",
 	},
+
+ -- racas em teste
+
+		["Anão"] = {
+		PlayersPermission = {"AX7_RAFT", "Bwresty"},
+		Icon = 130920965488753,
+		RaceName = "Anão",
+		RaceTag = "Anão",
+	},
+
+	
 }
 
 return module
