@@ -81,7 +81,12 @@ module.Races = {
 	},
 
  -- racas em teste
-
+	["Evil Morty"] = {
+		PlayersPermission = {"Nickname5", "Nickname6"},
+		Icon = 8418743242,
+		RaceName = "EvilMorty",
+		RaceTag = "EvilMorty",
+	},
 		["Anão"] = {
 		PlayersPermission = {"AX7_RAFT", "Bwresty"},
 		Icon = 130920965488753,
