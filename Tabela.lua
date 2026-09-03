@@ -20,7 +20,7 @@ module.Races = {
 		RaceTag = "anjo",
 	},
 	["Majin"] = {
-		PlayersPermission = {"sonecarlk333", "Nickname4"},
+		PlayersPermission = {"sonecarlk333", "AiraDEV6"},
 		Icon = 121525410617389,
 		RaceName = "majin",
 		RaceTag = "majin",
