@@ -87,11 +87,11 @@ module.Races = {
 		RaceName = "EvilMorty",
 		RaceTag = "EvilMorty",
 	},
-		["Anão"] = {
-		PlayersPermission = {"AX7_RAFT", "Bwresty"},
-		Icon = 130920965488753,
-		RaceName = "Anão",
-		RaceTag = "Anão",
+		["Pharaoh"] = {
+		PlayersPermission = {"AX7_RAFT", "AiraDEV6"},
+		Icon = 18457646667,
+		RaceName = "Pharaoh",
+		RaceTag = "Pharaoh",
 	},
 
 	
