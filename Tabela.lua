@@ -19,12 +19,6 @@ module.Races = {
 		RaceName = "anjo",
 		RaceTag = "anjo",
 	},
-	["VastoLorde"] = {
-		PlayersPermission = {"Nickname1", "Nickname2"},
-		Icon = 107557120350668,
-		RaceName = "VastoLorde",
-		RaceTag = "vastolorde",
-	},
 	["Majin"] = {
 		PlayersPermission = {"sonecarlk333", "Nickname4"},
 		Icon = 121525410617389,
@@ -49,44 +43,13 @@ module.Races = {
 		RaceName = "mahoraga",
 		RaceTag = "mahoraga",
 	},
-	["Kilua"] = {
-		PlayersPermission = {"Nickname5", "Nickname6"},
-		Icon = 18367318475,
-		RaceName = "kilua",
-		RaceTag = "kilua",
-	},
 	["Uchiha"] = {
 		PlayersPermission = {"Nickname5", "Nickname6"},
 		Icon = 6807731616,
 		RaceName = "Uchiha",
 		RaceTag = "uchiha",
 	},
-	["Instinto"] = {
-		PlayersPermission = {"Nickname5", "Nickname6"},
-		Icon = 10501016585,
-		RaceName = "Instinto",
-		RaceTag = "Instinto",
-	},
-	["Cosmic"] = {
-		PlayersPermission = {"Matheus_367890", "Bwresty"},
-		Icon = 11229028251,
-		RaceName = "Cosmic",
-		RaceTag = "cosmic",
-	},
-	["Xeno"] = {
-		PlayersPermission = {"AX7_RAFT", "Bwresty"},
-		Icon = 16708672510,
-		RaceName = "Xeno",
-		RaceTag = "Xeno",
-	},
 
- -- racas em teste
-	["Evil Morty"] = {
-		PlayersPermission = {"Nickname5", "Nickname6"},
-		Icon = 8418743242,
-		RaceName = "EvilMorty",
-		RaceTag = "EvilMorty",
-	},
 		["Pharaoh"] = {
 		PlayersPermission = {"AX7_RAFT", "AiraDEV6"},
 		Icon = 18457646667,
